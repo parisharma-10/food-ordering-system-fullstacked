@@ -1,0 +1,11 @@
+# frontend
+food-frontend/node_modules/
+
+# backend
+food-backend/target/
+
+# system
+.DS_Store
+
+# env
+.env
